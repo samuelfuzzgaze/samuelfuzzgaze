@@ -2,10 +2,6 @@
 
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
-# 🌌 Bem-vindo ao meu Universo! 🚀
-
-*"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
-
 ![Astronauta perdido no espaço](https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif)
 
 ---
