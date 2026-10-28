@@ -2,10 +2,7 @@
 
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
-<p align="center">
-  <img src="https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif" width="100%">
-</p>
----
+![Animação Buraco Negro](https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif)
 
 ## 👨‍🚀 Sobre o Astronauta
 Saudações! Sou um explorador no mundo da tecnologia. 
