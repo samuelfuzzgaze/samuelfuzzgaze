@@ -3,8 +3,8 @@
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
 <div align="center">
-  <!-- Animação do Buraco Negro -->
-  <img src="https://media.tenor.com/V-g1T5O6g2IAAAAd/black-hole-universe.gif" alt="Buraco Negro consumindo o espaço" width="100%">
+  <!-- Animação do Buraco Negro engolindo o Sol -->
+  <img src="https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif" alt="Buraco Negro consumindo o sol" width="100%">
 </div>
 
 ---
@@ -13,15 +13,15 @@
 Saudações! Sou um explorador no mundo da tecnologia. 
 
 - 🎯 **Objetivo Atual:** Preparando a nave para a minha decolagem como estagiário na área de tecnologia.
-- 🔭 **Linguagens:** Sou iniciante e estou focando os meus estudos exclusivamente nas tecnologias **JavaScript, Python, CSS e HTML**.
-- 🛡️ **Segurança:** Também sou **iniciante em Cyber Security**, aprendendo as bases para proteger sistemas e redes no universo digital.
+- 🔭 **Linguagens:** Sou iniciante e meus estudos estão focados nestas tecnologias: **JavaScript, Python, CSS e HTML**.
+- 🛡️ **Segurança:** Sou **iniciante em Cyber Security**, aprendendo a base para proteger sistemas e redes no universo digital.
 
 ---
 
 ## 🪐 Meu Sistema Solar de Tecnologias
 
 <div align="center">
-  <!-- Ícones configurados exatamente para JS, Python, CSS e HTML -->
+  <!-- Ícones configurados exatamente para JavaScript, Python, CSS e HTML -->
   <img src="https://skillicons.dev/icons?i=js,python,css,html&theme=dark" alt="Minhas Skills: JavaScript, Python, CSS, HTML" />
 </div>
 
@@ -38,4 +38,5 @@ Saudações! Sou um explorador no mundo da tecnologia.
 
 ## 📡 Transmissão de Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
