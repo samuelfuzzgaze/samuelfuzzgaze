@@ -3,22 +3,24 @@
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
 <div align="center">
-  <img src="https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif" width="100%">
+  <!-- Substitua o link abaixo pelo link do GIF que o GitHub gerar para si -->
+  <img src="COLE_AQUI_O_LINK_QUE_O_GITHUB_GEROU" alt="Astronauta perdido no espaço" width="100%">
 </div>
+
+---
 
 ## 👨‍🚀 Sobre o Astronauta
 Saudações! Sou um explorador no mundo da tecnologia. 
 
 - 🎯 **Objetivo Atual:** Preparando a nave para a minha decolagem como estagiário na área de tecnologia.
-- 🔭 **Linguagens:** Sou iniciante e meus estudos estão focados nestas tecnologias: **JavaScript, Python, CSS e HTML**.
-- 🛡️ **Segurança:** Sou **iniciante em Cyber Security**, aprendendo a base para proteger sistemas e redes no universo digital.
+- 🔭 **Linguagens:** Sou iniciante e os meus estudos estão focados nestas tecnologias: **JavaScript, Python, CSS e HTML**.
+- 🛡️ **Segurança:** Sou **iniciante em Cyber Security**, a aprender a base para proteger sistemas e redes no universo digital.
 
 ---
 
 ## 🪐 Meu Sistema Solar de Tecnologias
 
 <div align="center">
-  <!-- Ícones configurados exatamente para JavaScript, Python, CSS e HTML -->
   <img src="https://skillicons.dev/icons?i=js,python,css,html&theme=dark" alt="Minhas Skills: JavaScript, Python, CSS, HTML" />
 </div>
 
