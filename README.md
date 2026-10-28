@@ -2,9 +2,10 @@
 
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
-![Astronauta perdido no espaço](https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif)
-
----
+<div align="center">
+  <!-- Ícones configurados exatamente para JavaScript, Python, CSS e HTML -->
+  <img src="https://skillicons.dev/icons?i=js,python,css,html&theme=dark" alt="Minhas Skills: JavaScript, Python, CSS, HTML" />
+</div>
 
 ## 👨‍🚀 Sobre o Astronauta
 Saudações! Sou um explorador no mundo da tecnologia. 
