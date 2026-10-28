@@ -3,8 +3,8 @@
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
 <div align="center">
-  <!-- Animação em Pixel Art gerada por IA -->
-  <video src="http://googleusercontent.com/generated_video_content/7243283761831016900" width="100%" autoplay loop muted playsinline></video>
+  <!-- Substitua o link abaixo pelo link gerado pelo GitHub após arrastar o GIF -->
+  <img src="SEU_LINK_DO_GIF_AQUI" alt="Astronauta flutuando no espaço em Pixel Art" width="100%">
 </div>
 
 ## 👨‍🚀 Sobre o Astronauta
