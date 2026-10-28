@@ -2,11 +2,7 @@
 
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
-<div align="center">
-  <!-- Substitua o link abaixo pelo link do GIF que o GitHub gerar para si -->
-  <img src="COLE_AQUI_O_LINK_QUE_O_GITHUB_GEROU" alt="Astronauta perdido no espaço" width="100%">
-</div>
-
+<img src="https://github.com/user-attachments/assets/SEU-LINK-AQUI" alt="Astronauta perdido no espaço" width="100%">
 ---
 
 ## 👨‍🚀 Sobre o Astronauta
