@@ -2,11 +2,9 @@
 
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
-<div align="center">
-  <!-- Animação do Buraco Negro engolindo o Sol -->
-  <img src="https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif" alt="Buraco Negro consumindo o sol" width="100%">
-</div>
-
+<p align="center">
+  <img src="https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif" width="100%">
+</p>
 ---
 
 ## 👨‍🚀 Sobre o Astronauta
