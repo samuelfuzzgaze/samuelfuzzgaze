@@ -3,8 +3,8 @@
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
 <div align="center">
-  <!-- Ícones configurados exatamente para JavaScript, Python, CSS e HTML -->
-  <img src="https://skillicons.dev/icons?i=js,python,css,html&theme=dark" alt="Minhas Skills: JavaScript, Python, CSS, HTML" />
+  <!-- Animação em Pixel Art gerada por IA -->
+  <video src="http://googleusercontent.com/generated_video_content/7243283761831016900" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 ## 👨‍🚀 Sobre o Astronauta
