@@ -2,8 +2,7 @@
 
 *"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
 
-<img src="https://github.com/user-attachments/assets/SEU-LINK-AQUI" alt="Astronauta perdido no espaço" width="100%">
----
+https://media.tenor.com/8QeJ8vR4gXgAAAAd/black-hole.gif)
 
 ## 👨‍🚀 Sobre o Astronauta
 Saudações! Sou um explorador no mundo da tecnologia. 
