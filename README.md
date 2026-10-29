@@ -1,6 +1,5 @@
-
-<!-- Banner Astronômico no topo do perfil com link novo e estável -->
-<img src="https://media.giphy.com/media/26uf4cvmN5X1mhI9G/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;">
+<!-- Banner Astronômico (Buraco Negro) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Black_hole_lensing_web.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;">
 
 <h1 align="center">Olá, bem-vindo ao meu perfil! 🚀</h1>
 
@@ -33,6 +32,6 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=COLOQUE_SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COLOQUE_SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuzzgaze&layout=compact&langs_count=7&theme=dracula"/>
 </p>
