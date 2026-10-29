@@ -17,4 +17,4 @@
 
 ### 📊 Minhas Estatísticas
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&them
