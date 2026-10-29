@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner animado: Buraco negro engolindo uma estrela -->
-  <img src="https://media.giphy.com/media/xT1R9S46K4v5wG7w5W/giphy.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;">
+  <!-- Banner animado: Buraco Negro (Link estável e sem bloqueios do GitHub) -->
+  <img src="https://media.tenor.com/7s1H-BXXQ1UAAAAC/black-hole.gif" width="100%">
   
   <h1>Olá, bem-vindo ao meu perfil! 🚀</h1>
   <p><b>Estagiário em Tecnologia | Desenvolvedor Iniciante | Apaixonado por Astronomia</b></p>
@@ -12,7 +12,7 @@
 
 - 🎓 Sou iniciante no mundo da tecnologia e atualmente trabalho como **estagiário**.
 - 💻 Focado em construir uma base sólida em programação e infraestrutura.
-- 🌌 No meu tempo livre, gosto de explorar projetos visuais e estudar sobre os fenômenos do espaço.
+- 🌌 No meu tempo livre, gosto de explorar projetos visuais e estudar sobre os fenómenos do espaço.
 - 🎯 Busco sempre aprender novas ferramentas para criar soluções eficientes.
 
 ---
