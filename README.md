@@ -10,9 +10,3 @@
 - 💻 Focado em construir projetos práticos e melhorar as minhas habilidades.
 - 🌌 Fascinado por astronomia, desde buracos negros até à exploração espacial.
 
----
-
-### 📊 Linguagens Mais Utilizadas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuzzgaze&layout=compact&langs_count=4&theme=dracula&hide_border=true&include_all_commits=true" width="100%" />
-</p>
