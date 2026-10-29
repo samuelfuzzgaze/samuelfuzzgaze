@@ -1,4 +1,4 @@
-<!-- ARRASTE A IMAGEM PARA AQUI E APAGUE ESTA LINHA -->
+https://github.com/samuelfuzzgaze/aula11/blob/main/Gemini_Generated_Gif_m4i6q5m4i6q5m4i6.gif<!-- ARRASTE A IMAGEM PARA AQUI E APAGUE ESTA LINHA -->
 
 ### 👨‍🚀 Sobre mim
 - 🎓 Atualmente trabalho como **estagiário** e procuro evoluir a minha base técnica.
