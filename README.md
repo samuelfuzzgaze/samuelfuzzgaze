@@ -1,29 +1,40 @@
-# 🌌 Bem-vindo ao meu Universo! 🚀
+<!-- Banner Astronômico no topo do perfil -->
+<img src="https://i.pinimg.com/originals/a0/0c/fc/a00cfc24eec39f5f121d5a7d975a5e37.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;">
 
-*"Explorando o cosmos da tecnologia e as defesas da galáxia cibernética."* 🔭
+<h1 align="center">Olá, bem-vindo ao meu perfil! 🚀</h1>
 
-![Astronauta flutuando no espaço](https://media.giphy.com/media/3o7abtnHkE7Q2m8Vxu/giphy.gif)
-
----
-
-## 👨‍🚀 Sobre o Astronauta
-Saudações! Sou um explorador no mundo da tecnologia.
-
-- 🎯 **Objetivo Atual:** Preparando a nave para a minha decolagem como estagiário na área de tecnologia.
-- 🔭 **Linguagens:** Sou iniciante e os meus estudos estão focados nestas tecnologias: **JavaScript, Python, CSS e HTML**.
-- 🛡️ **Segurança:** Sou **iniciante em Cyber Security**, aprendendo a base para proteger sistemas e redes no universo digital.
+<p align="center">
+  <strong>Estudante de Tecnologia | Focado em automação e infraestrutura</strong>
+</p>
 
 ---
 
-## 🪐 Meu Sistema Solar de Tecnologias
+### 👨‍🚀 Sobre mim
 
-![Minhas Skills](https://skillicons.dev/icons?i=js,python,css,html&theme=dark)
+- 🔭 Atualmente explorando projetos visuais e estudando novas tecnologias.
+- 🌱 Aprofundando conhecimentos em ferramentas de administração de sistemas e infraestrutura.
+- 💼 Preparando meu portfólio para ingressar no mercado de tecnologia em uma posição de estágio.
+- 🌌 Curiosidade: Apaixonado por astronomia e por como a tecnologia nos ajuda a entender o espaço.
 
 ---
 
-## 🌠 Constelações (Estatísticas do GitHub)
+### 💻 Tecnologias e Ferramentas que utilizo
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9)
+<!-- Os links abaixo geram as "bages" (etiquetas coloridas) das linguagens. Você pode apagar as que não usa ou adicionar novas no futuro -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelfuzzgaze&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9)
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<!-- Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub nas duas linhas abaixo para que os gráficos funcionem com os seus dados -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
