@@ -12,9 +12,7 @@
 
 ---
 
-### 📈 Estrutura dos Meus Commits
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelfuzzgaze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" />
-
-### 📊 Minhas Estatísticas
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&them
+### 🏆 Minhas Conquistas no GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelfuzzgaze&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="100%" />
+</p>
