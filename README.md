@@ -1,4 +1,5 @@
-![Banner](banner.png)
+![Banner](<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/92148e75-b550-48af-9c6d-bbc82155db95" />
+)
 
 ### 👨‍🚀 Sobre mim
 - 🎓 Atualmente trabalho como **estagiário** e busco evoluir minha base técnica.
