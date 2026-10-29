@@ -12,7 +12,7 @@
 
 ---
 
-### 🏆 Minhas Conquistas no GitHub
+### 📊 Linguagens Mais Utilizadas
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuelfuzzgaze&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuzzgaze&layout=compact&langs_count=4&theme=dracula&hide_border=true&include_all_commits=true" width="100%" />
 </p>
