@@ -1,28 +1,19 @@
-![Astronomia](espaco.gif)
+![Buraco negro engolindo estrela](https://media.giphy.com/media/xT1R9S46K4v5wG7w5W/giphy.gif)
 
-# Olá, bem-vindo ao meu perfil! 🚀
-**Estagiário em Tecnologia | Desenvolvedor Iniciante | Apaixonado por Astronomia**
+# Olá! 🚀
+**Estagiário em Tecnologia | Iniciante | Apaixonado por Astronomia**
+
+Tenho conhecimentos básicos em **JavaScript, Python, HTML e CSS**.
 
 ---
-
 ### 👨‍🚀 Sobre mim
-
-- 🎓 Sou iniciante no mundo da tecnologia e atualmente trabalho como **estagiário**.
-- 💻 Focado em construir uma base sólida em programação e infraestrutura.
-- 🌌 No meu tempo livre, gosto de explorar projetos visuais e estudar sobre os fenômenos do espaço.
-
----
-
-### 💻 Tecnologias que utilizo
-
-💛 **JavaScript** | 🐍 **Python** | 🧡 **HTML5** | 💙 **CSS3**
+- 🎓 Atualmente trabalho como **estagiário** e busco evoluir minha base técnica.
+- 💻 Focado em construir projetos práticos e melhorar minhas habilidades como desenvolvedor.
+- 🌌 Fascinado por astronomia, desde buracos negros até a exploração do espaço.
 
 ---
-
-### 📈 Estrutura de Commits
-
+### 📈 Estrutura dos Meus Commits
 ![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=samuelfuzzgaze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF)
 
-### 📊 Estatísticas
-
+### 📊 Minhas Estatísticas
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
