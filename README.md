@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner animado de astronomia -->
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;">
+  <!-- Banner animado: Buraco negro engolindo uma estrela -->
+  <img src="https://media.giphy.com/media/xT1R9S46K4v5wG7w5W/giphy.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;">
   
   <h1>Olá, bem-vindo ao meu perfil! 🚀</h1>
   <p><b>Estagiário em Tecnologia | Desenvolvedor Iniciante | Apaixonado por Astronomia</b></p>
@@ -12,7 +12,7 @@
 
 - 🎓 Sou iniciante no mundo da tecnologia e atualmente trabalho como **estagiário**.
 - 💻 Focado em construir uma base sólida em programação e infraestrutura.
-- 🌌 No meu tempo livre, gosto de explorar projetos visuais e estudar sobre o espaço.
+- 🌌 No meu tempo livre, gosto de explorar projetos visuais e estudar sobre os fenômenos do espaço.
 - 🎯 Busco sempre aprender novas ferramentas para criar soluções eficientes.
 
 ---
@@ -40,7 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuzzgaze&layout=compact&langs_count=4&theme=dracula&hide_border=true" height="180em">
 </div>
-
-
-
 
