@@ -5,14 +5,17 @@
 </div>
 
 
-### 👨‍🚀 Sobre mim
+<h3>👨‍🚀 SOBRE MIM</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Estagiário_em_Tecnologia-3776AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-Cyber_Security_%26_Desenvolvimento-1572B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Objetivo-Evoluir_a_Base_Técnica-F7DF1E?style=for-the-badge&logo=black" />
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ESTAGIÁRIO_EM_TECNOLOGIA-3776AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCO-CYBER_SECURITY_%26_DEV-1572B6?style=for-the-badge&logoColor=white" />
 </p>
 
-- 🎓 Atualmente atuo como **estagiário**, buscando consolidar meus conhecimentos práticos.
-- 💻 Focado em construir projetos reais e aprimorar minhas habilidades técnicas.
-- 🛡️ Cursando **Cyber Security** para unir segurança da informação e desenvolvimento.
+<h4>🚀 Meus Objetivos e Atuação</h4>
+
+<ul>
+  <li><b>Atualmente atuo como estagiário</b>, buscando consolidar conhecimentos práticos no mercado.</li>
+  <li><b>Focado em construir projetos reais</b> e aprimorar continuamente minhas habilidades técnicas.</li>
+  <li><b>Cursando Cyber Security</b>, unindo segurança da informação com desenvolvimento de software.</li>
+</ul>
