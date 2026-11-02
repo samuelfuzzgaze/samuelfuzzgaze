@@ -22,21 +22,24 @@
 
 ## 🪐 Meu Sistema Solar de Tecnologias
 
-![Minhas Skills](https://skillicons.dev/icons?i=js,python,css,html&theme=dark)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,css,html&theme=dark" alt="Minhas Skills" />
+  <br><br>
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Cyber_Security-0D1117?style=for-the-badge&textColor=79C0FF" alt="Cyber Security" />
+</div>
 
 ---
 
-## 🌠 Constelações e Frequência Estelar (Commits)
+## 🌠 Constelações (Estatísticas do GitHub)
 
-![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=samuelfuzzgaze&bg_color=0D1117&color=79C0FF&line=79C0FF&point=FFFFFF&hide_border=true&theme=tokyonight)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelfuzzgaze&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelfuzzgaze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelfuzzgaze&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9" alt="GitHub Streak" height="150" />
+</div>
 
 ---
 
 ## 📡 Transmissão de Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoCol
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo
